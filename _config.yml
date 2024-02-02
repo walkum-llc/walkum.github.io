@@ -2,3 +2,5 @@ title: Walkum
 description: Walkum, LLC
 url: http://walkum.xyz
 markdown: GFM
+github_pages:
+  theme: null

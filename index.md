@@ -2,9 +2,8 @@
 
 <div class="center">
 
-<div class="left">
 <img src="./src/images/WalkumRecords.png" alt="walkum picture" class="title_picture">
-</div>
+<img src="./src/images/WalkumHomes.png" alt="walkum picture" class="title_picture">
 
 <div class="list">
 
