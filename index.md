@@ -6,10 +6,10 @@
 
 Production Services
 
-<span>&#8681;</span> Learn More <span>&#8681;</span>
+<span>&#8680;</span> [YouTube](https://www.youtube.com/channel/UC1UIB7tCZ-2bVhwn2m3xivA) <span>&#8678;</span>
 
-{% raw %}
-<iframe src="https://ddaaggeett.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background: #000000;" class="subscribe" frameborder="0" scrolling="no"></iframe>
-{% endraw %}
+<span>&#8681;</span> Email To Learn More <span>&#8681;</span>
+
+ddaaggeett.org@gmail.com
 
 </div>
