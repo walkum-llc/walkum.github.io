@@ -8,8 +8,8 @@ Production Services
 
 <span>&#8681;</span> Learn More <span>&#8681;</span>
 
-<div>
+{% raw %}
 <iframe src="https://ddaaggeett.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background: #000000;" class="subscribe" frameborder="0" scrolling="no"></iframe>
-</div>
+{% endraw %}
 
 </div>
