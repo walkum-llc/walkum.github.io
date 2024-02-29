@@ -3,13 +3,14 @@
 * {
     -webkit-box-sizing: border-box;
 	box-sizing: border-box;
+    font-size: 20px;
     font-family: 'Courier';
 }
 
 body {
 	font-family: 'Open Sans', sans-serif;
 	line-height: 1.75em;
-	font-size: 16px;
+	/* font-size: 16px; */
 	background-color: #222;
 	color: #fff;
 }
@@ -39,7 +40,7 @@ body {
 }
 
 p {
-	font-size: 16px;
+	/* font-size: 16px; */
 }
 
 h1 {
@@ -117,14 +118,8 @@ aside,
 }
 
 .title_picture {
-    /* display: block; */
-    /* margin-left: auto;
-    margin-right: auto; */
-    /* border-radius: 50%; */
-	margin-bottom: 20px;
     width: 500px;
-	margin-bottom: 25px;
-    /* height: 100px; */
+	margin: 25px;
 }
 
 .video_container {

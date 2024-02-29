@@ -4,12 +4,8 @@
 
 <img src="./src/images/walkum_records_.png" alt="walkum picture" class="title_picture">
 
-Production Services
+<span>&#8680;</span> YouTube <a href="https://www.youtube.com/channel/UC1UIB7tCZ-2bVhwn2m3xivA" target="_blank">Catalogue</a> <span>&#8678;</span>
 
-<span>&#8680;</span> [YouTube](https://www.youtube.com/channel/UC1UIB7tCZ-2bVhwn2m3xivA) <span>&#8678;</span>
-
-<span>&#8681;</span> Email To Learn More <span>&#8681;</span>
-
-ddaaggeett.org@gmail.com
+<span>&#8680;</span> Newsletter <a href="https://ddaaggeett.substack.com/" target="_blank">Subscription</a> <span>&#8678;</span>
 
 </div>
