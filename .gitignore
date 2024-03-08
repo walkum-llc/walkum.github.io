@@ -2,7 +2,7 @@
 *.mp3
 *.jpg
 *.png
-!*walkum_records_.png
+!*walkum_records*.png
 *.exe
 *.m4a
 *.pdf
