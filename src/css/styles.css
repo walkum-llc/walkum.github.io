@@ -151,6 +151,14 @@ aside,
     margin: 50px;
 }
 
+
+th, td {
+  border: 1px solid white;
+  padding: 8px;
+  text-align: left;
+  background-color: #000000;
+}
+
 pre code.language-bash,
 pre code.language-python,
 pre code.language-javascript,

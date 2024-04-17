@@ -24,15 +24,15 @@ In your email, make clear the following:
 
 <div class="center">
 
-|  Price $   | Service (Customer POV) |
+| Price | Service (Customer POV) |
 |----------|------------|
 | 0        | "Check out my new sounding demo."        |
-| 25        | "Listen intently to my demo."        |
-| 75        | "Record an instrumental track how you see fit with this and send it back to me."</br>(Available instruments include what is demonstrated in [Walkum's house band releases](https://www.youtube.com/playlist?list=PLAFFCFbWF1lHAQ2mS_LO-Y7xWIFuVOGhK).)        |
-| 100        | "Record a track how I see fit and send it back."        |
-| 200        | "Mix the two tracks and send it back."        |
-| 550        | "Produce my whole song accompanied with an official instrumental record video."</br>(typically 3 tracks added by Walkum)        |
-| 1550        | "Produce my whole song **AND** Walkum Records' studio musicians do not visually appear in my official music video (custom video)."        |
+| 25       | "Listen intently to my demo."        |
+| 75       | "Record an instrumental track how you see fit with this and send it back to me."</br>(Available instruments include what is demonstrated in [Walkum's house band releases](https://www.youtube.com/playlist?list=PLAFFCFbWF1lHAQ2mS_LO-Y7xWIFuVOGhK).)        |
+| 100      | "Record a track how I see fit and send it back."        |
+| 200      | "Mix the two tracks and send it back."        |
+| 550      | "Produce my whole song accompanied with an official instrumental record video."</br>(typically 3 tracks added by Walkum)        |
+| 1550     | "Produce my whole song **AND** Walkum Records' studio musicians do not visually appear in my official music video (custom video)."        |
 
 </div>
 
