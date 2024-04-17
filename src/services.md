@@ -2,7 +2,7 @@
 
 <div class="center">
 
-<img src="./images/walkum_records.png" alt="walkum picture" class="title_picture">
+<img src="./images/walkum_records.png" alt="walkum picture" class="title_picture_small">
 
 ## Services Available
 

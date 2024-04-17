@@ -122,6 +122,14 @@ aside,
 	margin: 25px;
 }
 
+.small_text {
+    font-size: 13px;
+}
+
+.title_picture_small {
+    width: 160px;
+}
+
 .video_container {
     position: relative;
     left: 25%;
