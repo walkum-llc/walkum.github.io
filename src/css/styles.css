@@ -120,6 +120,15 @@ aside,
     height: 100px;
 }
 
+.clapper {
+    display: block;
+    margin-left: 50px;;
+    margin-right: auto;
+    width: 80px;
+    height: 80px;
+    /* vertical-align: middle; */
+}
+
 .title_picture {
     width: 500px;
 	margin: 25px;

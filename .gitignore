@@ -2,10 +2,12 @@
 *.mp3
 *.jpg
 *.png
+!clapper01.png
 !*walkum_records*.png
 *.exe
 *.m4a
 *.pdf
+*.xcf
 !contract.pdf
 archive.*
 Gemfile*
