@@ -7,20 +7,15 @@
 
 <div class="center">
 
-# I'm a musician.</br>How do I work with Walkum Records?
+# <span class="green">I'm a musician</span>.</br>How do I work with Walkum Records?
 
 </div>
 
 ## Step 1:
 
-<p class="paragraph">
-
 Send a demo audio/video file of your playing. Showcase yourself. Upload it to the internet and email a link to walkum.llc@gmail.com.
 
 We can get a general understanding of your musicianship with a simple phone camera/microphone in order to decide how we'd be useful to you. Provide whatever record quality you wish.
-
-</p>
-
 
 ## Step 2:
 
@@ -46,13 +41,13 @@ If we feel we can be a fruitful match, we'll be in touch.
 
 </br>
 
-# A note from a Walkum</br>studio musician:
+# A note from a Walkum studio musician:
 
 Walkum Records isn't your big-tech answer to music production. If you're trying to be swept up by distribution algorithms, you may find a quicker fix somewhere else for the type of thrill you may be after.
 
 If you're willing to consider that great artistry happens independent of distribution, we'd be thrilled to work with you.
 
-**Walkum Records is a musical arts catalogue developer**. Our goal is the thrill of the art, not the thrill of a hit song.
+<span class="green">**Walkum Records is a musical arts catalogue developer**</span>. Our goal is the thrill of the art, not the thrill of a hit song.
 
 ___
 

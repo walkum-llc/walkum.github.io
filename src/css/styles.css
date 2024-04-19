@@ -47,7 +47,7 @@ p {
 h1 {
 	font-size: 30px;
 	line-height: 34px;
-    text-align: right
+    text-align: right;
 }
 
 h2 {
@@ -127,6 +127,10 @@ aside,
 .small_text {
     font-size: 11px;
     text-align: left;
+}
+
+.green {
+    color: #84bf41
 }
 
 .title_picture_small {
