@@ -6,7 +6,7 @@
 
 ## Services Available
 
-- Music production
+- [Music production](./collab.md)
 - Audio recording - on-site available
 - Video production
 - Video recording - on-site available
