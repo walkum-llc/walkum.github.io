@@ -121,12 +121,13 @@ aside,
 }
 
 .clapper {
-    display: block;
-    margin-left: 50px;;
-    margin-right: auto;
+    /* display: block; */
+    float:right;
+    /* margin-left: 50px;; */
+    /* margin-right: auto; */
     width: 80px;
     height: 80px;
-    /* vertical-align: middle; */
+    vertical-align: middle;
 }
 
 .title_picture {

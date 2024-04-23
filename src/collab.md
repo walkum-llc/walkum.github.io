@@ -19,27 +19,9 @@ We can get a general understanding of your musicianship with a simple phone came
 
 ## Step 2:
 
-In your email, make clear the following service you'd like to receive.
+In your email, make clear the following service you'd like to receive <span>&#8680;</span> [PRICES](./prices.md)
 
 If we feel we can be a fruitful match, we'll be in touch.
-
-"Hey, Walkum..."
-
-<div class="center">
-
-| Price | Service (Customer POV) |
-|----------|------------|
-| 0        | "Check out my new sounding demo."        |
-| 25       | "Listen intently to my demo." (Guarantees a response from Walkum)        |
-| 75       | "Record an instrumental track how you see fit with this and send it back to me."</br>(Available instruments include those recorded in [Walkum's record catalogue](https://www.youtube.com/playlist?list=PLAFFCFbWF1lHAQ2mS_LO-Y7xWIFuVOGhK).)        |
-| 100      | "Record a track how I see fit and send it back."        |
-| 250      | "Mix the two tracks and send it back."        |
-| 600      | "Produce my whole song with 3 added Walkum tracks accompanied by an official instrumental record video."</br>(Option to add tracks)        |
-| 1600     | "Produce my whole song **AND** Walkum Records' studio musicians do not visually appear in my official music video."</br>(custom video)        |
-
-</div>
-
-</br>
 
 # A note from a Walkum studio musician:
 
