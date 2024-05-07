@@ -170,7 +170,7 @@ aside,
     text-align: center;
     background-color: blue;
     /* border: 1px solid white; */
-    padding: 10px;
+    padding: 5px;
     padding-right: 15px;
     padding-left: 15px;
     font-size: 16px;
@@ -199,9 +199,13 @@ aside,
     cursor: pointer;
 }
 
+.chart_padding {
+    padding: 10px;
+}
+
 .service_header {
     text-align: center;
-    /* margin-bottom: 20px; */
+    padding: 5px;
 }
 
 .title_picture_small {
