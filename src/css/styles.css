@@ -111,6 +111,11 @@ aside,
 	margin-bottom: 20px;
 }
 
+.right {
+    text-align: right;
+	margin-bottom: 20px;
+}
+
 .picture {
     display: block;
     margin-left: auto;
@@ -142,6 +147,61 @@ aside,
 
 .green {
     color: #20f713
+}
+
+.bottom {
+    float: bottom;
+}
+
+.pay {
+    text-align: center;
+    background-color: blue;
+    /* border: 1px solid white; */
+    padding: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 16px;
+    color: white;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.pay_look {
+    text-align: center;
+    background-color: blue;
+    /* border: 1px solid white; */
+    padding: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 16px;
+    color: white;
+    border-radius: 5px;
+
+}
+
+.pay_free {
+    text-align: center;
+    background-color: black;
+    /* border: 1px solid white; */
+    padding: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 16px;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.pay:hover {
+    cursor: pointer;
+}
+
+.pay_free:hover {
+    cursor: pointer;
+}
+
+.service_header {
+    text-align: center;
+    /* margin-bottom: 20px; */
 }
 
 .title_picture_small {
@@ -186,4 +246,36 @@ pre code.language-txt {
     overflow: auto;
     background-color: dark gray;
     color: white;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+  width: 100%;
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 400px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 15px;
+  border: 1px solid #20f713;
+  border-radius: 6px;
+
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+.chart {
+    height: 100%;
 }

@@ -11,17 +11,13 @@
 
 </div>
 
-## Step 1:
+## Step 1: <span class="green">Play for us</span>!
 
 Send a demo audio/video file of your playing. Showcase yourself. Upload it to the internet and email a link to walkum.llc@gmail.com.
 
 We can get a general understanding of your musicianship with a simple phone camera/microphone in order to decide how we'd be useful to you. Provide whatever record quality you wish.
 
-## Step 2:
-
-In your email, make clear the following service you'd like to receive <span>&#8680;</span> [PRICES](./prices.md)
-
-If we feel we can be a fruitful match, we'll be in touch.
+## Step 2: <span class="green">Select your service</span> <span>&#8680;</span> [PRICES](./prices.md)!
 
 # A note from a Walkum studio musician:
 
