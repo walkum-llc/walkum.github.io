@@ -33,8 +33,5 @@ Thanks for visiting :) Here is a parting thought:
 
 "Jazz lifted up improvisation to public awareness and mastered it more than any other art form." - [Theo Katzman](https://youtu.be/6e0wsD-_D3A)
 
-___
-
 <div class="small_text">
-Disclaimer: Walkum Records reserves the right to select who it works with. If we are unavailable, DO NOT STOP refining your music. Perhaps we'll be available at another time. Also, try again. We may just need a reminder.
 </div>
