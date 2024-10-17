@@ -17,21 +17,20 @@ Send a demo audio/video file of your playing. Showcase yourself. Upload it to th
 
 We can get a general understanding of your musicianship with a simple phone camera/microphone in order to decide how we'd be useful to you. Provide whatever record quality you wish.
 
-## Step 2: <span class="green">Select your service</span> <span>&#8680;</span> [PRICES](./prices)!
+## Step 2: <span class="green">Select your service</span>
 
-# A note from a Walkum studio musician:
+<div class="center">
 
-Walkum Records isn't your big-tech answer to music production. If you're trying to be swept up by distribution algorithms, you may find a quicker fix somewhere else for the type of thrill you may be after.
+| <div class="service_header">SELECT</div> | <div class="service_header">SERVICE (Customer POV)</div> |
+|----------|------------|
+| <div class="tooltip"><div class="pay_free">$0<span class="tooltiptext">Email: walkum.llc@gmail.com</span></span></div></div>        | <div class="chart_padding">**"Check out my new demo track.**"</div>        |
+| <div class="tooltip"><a href="https://www.paypal.com/ncp/payment/KYJPU4PP7VS5C"><div class="pay">$25</div></a><span class="tooltiptext">PAY **AND** Email: walkum.llc@gmail.com</br></br>Kick off your experience with one simple payment.</span></div>       | <div class="chart_padding">**"Listen intently to my demo."** (Guarantees a response)</div>        |
+| <div class="tooltip"><div class="pay_free">$100<span class="tooltiptext">Email: walkum.llc@gmail.com. You'll be send a payment invoice.</br></br>Available instruments include those recorded in [Walkum's record catalogue](https://www.youtube.com/playlist?list=PLAFFCFbWF1lHAQ2mS_LO-Y7xWIFuVOGhK).</span></span></div>      | <div class="chart_padding">**"Record an instrumental track with this and send it back to me."** </div>        |
+| <div class="tooltip"><div class="pay_free">$250<span class="tooltiptext">Email: walkum.llc@gmail.com. You'll be send a payment invoice.</span></span></div>      | <div class="chart_padding">**"Mix the two tracks and send it back."**</div>        |
+| <div class="tooltip"><div class="pay_free">$700<span class="tooltiptext">Email: walkum.llc@gmail.com. You'll be send a payment invoice.</br></br>Option to add tracks.</span></span></div>      | <div class="chart_padding">**"Produce my whole song with 3 added Walkum tracks accompanied by an official live instrumental record video."**</div>        |
+| <div class="tooltip"><div class="pay_free">$2100<span class="tooltiptext">Email: walkum.llc@gmail.com. You'll be send a payment invoice.</br></br>Custom Video</span></span></div>     | <div class="chart_padding">**"Produce my whole song **AND** Walkum Records' studio musicians do not visually appear in my official music video."**</div>        |
 
-If you're willing to consider that great artistry happens independent of distribution, we'd be thrilled to work with you.
-
-<span class="green">**Walkum Records is a musical arts catalogue developer**</span>. Our goal is the thrill of the art, not the thrill of a hit song.
-
-___
-
-Thanks for visiting :) Here is a parting thought:
-
-"Jazz lifted up improvisation to public awareness and mastered it more than any other art form." - [Theo Katzman](https://youtu.be/6e0wsD-_D3A)
+</div>
 
 <div class="small_text">
 </div>
