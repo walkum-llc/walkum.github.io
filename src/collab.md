@@ -17,7 +17,7 @@ Send a demo audio/video file of your playing. Showcase yourself. Upload it to th
 
 We can get a general understanding of your musicianship with a simple phone camera/microphone in order to decide how we'd be useful to you. Provide whatever record quality you wish.
 
-## Step 2: <span class="green">Select your service</span> <span>&#8680;</span> [PRICES](./prices.md)!
+## Step 2: <span class="green">Select your service</span> <span>&#8680;</span> [PRICES](./prices)!
 
 # A note from a Walkum studio musician:
 

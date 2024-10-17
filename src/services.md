@@ -6,7 +6,7 @@
 
 # <span class="green">Services</span> Available:
 
-- [Music production](./collab.md)
+- [Music production](./collab)
 - Audio recording - on-site available
 - Video production
 - Video recording - on-site available
