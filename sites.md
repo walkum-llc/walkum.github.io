@@ -16,7 +16,7 @@ Use [our website](./index) as a product example. **Pretty good on the eyes, no?*
 
 | <div class="service_header">PRICE</div> | <div class="service_header">SERVICE (Customer POV)</div> |
 |----------|------------|
-| <div class="tooltip"><div class="pay_free">$275<span class="tooltiptext">Email: walkum.llc@gmail.com</span></span></div></div>        | <div class="chart_padding">**"I'll have one website, please."**</br><span class="small_text">Includes site (w/ default design) + 3 updates in the first month + hosting setup.</span></div>        |
+| <div class="tooltip"><div class="pay_free">$249<span class="tooltiptext">Email: walkum.llc@gmail.com</span></span></div></div>        | <div class="chart_padding">**"I'll have one website, please."**</br><span class="small_text">Includes site (w/ default design) + 3 updates in the first month + hosting setup.</span></div>        |
 | <div class="tooltip"><div class="pay_free">$25<span class="tooltiptext">Email: walkum.llc@gmail.com</span></span></div></div>        | <div class="chart_padding">**"I'd like to add a page of dark-mode content."**</div>        |
 | <div class="tooltip"><div class="pay_free">$25<span class="tooltiptext">Email: walkum.llc@gmail.com</span></span></div></div>        | <div class="chart_padding">**"I'd like to add/edit content."**</div>        |
 | <div class="tooltip"><div class="pay_free">$40/hour<span class="tooltiptext">Email: walkum.llc@gmail.com</span></span></div></div>        | <div class="chart_padding">**"I need additional customization."**</br><span class="small_text">Typically custom design/stylizing.</span></div>        |
