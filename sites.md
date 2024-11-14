@@ -5,7 +5,7 @@
 <img src="./src/images/walkum_sites.png" alt="walkum sites" class="title_picture">
 
 ### Your own
-### <span class="large_header">CHEAP, DARK-MODE WEBSITE</span>
+### <div class="large_header">CHEAP, DARK-MODE WEBSITE</div>
 
 Infrequent content updates?
 
@@ -24,7 +24,7 @@ You send us a rough formatted email of your desired web page content,
 
 ### and we deploy.
 
-### <span class="large_header">Make the SMART CHOICE today!</span>
+### <div class="large_header">Make the SMART CHOICE today!</div>
 
 | <div class="service_header">PRICE</div> | <div class="service_header">SERVICE (Customer POV)</div> |
 |----------|------------|
