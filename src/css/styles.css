@@ -71,7 +71,7 @@ hr {
 }
 
 a[href] {
-	color: #39FF14; 
+	color: #39FF14;
 }
 
 a[href]:hover {
@@ -282,4 +282,8 @@ pre code.language-txt {
 
 .chart {
     height: 100%;
+}
+
+.large_header {
+    font-size: 40px;
 }
