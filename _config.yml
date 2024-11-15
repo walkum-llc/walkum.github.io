@@ -1,6 +1,8 @@
 title: walkum
 description: xyz
-url: http://walkum.xyz
+url: https://walkum.xyz
 markdown: GFM
 github_pages:
   theme: null
+plugins:
+  - jekyll-sitemap
