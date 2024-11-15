@@ -1,3 +1,7 @@
+---
+title: "walkum | homes"
+description: "walkum llc dave daggett ddaaggeett construction home remodel project carpentry tile floor flooring vinyl drywall paint demolition shelving storage built ins cabinets cabinetry wood woodworking spencerport rochester ny contracting services"
+---
 <link href="./src/css/styles.css" rel="stylesheet" />
 
 <div class="center">

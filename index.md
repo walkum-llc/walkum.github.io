@@ -1,3 +1,7 @@
+---
+title: "walkum | xyz"
+description: "walkum llc dave daggett ddaaggeett records homes sites contracting contractor construction building engineering software music guitar bass drums sax saxophone business spencerport rochester ny"
+---
 <link href="./src/css/styles.css" rel="stylesheet" />
 
 <div class="center">

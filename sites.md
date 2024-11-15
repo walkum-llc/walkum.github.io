@@ -1,22 +1,26 @@
+---
+title: "walkum | sites"
+description: "get your own cheap dark mode static website no subscriptions expiration on demand updates buy purchase internet noob beginner business owner blog basic easy friendly"
+---
 <link href="./src/css/styles.css" rel="stylesheet" />
 
 <div class="center">
 
 <img src="./src/images/walkum_sites.png" alt="walkum sites" class="title_picture">
 
-### Your own
+### Get your own
 
 <div class="large_header">CHEAP, DARK-MODE WEBSITE</div>
 
-Infrequent content updates?
+### Infrequent content updates?
 
-### NO SUBSCRIPTIONS
-### NO EXPIRATION
-### ON-DEMAND UPDATES
+<div class="large_header">NO SUBSCRIPTIONS</div>
+<div class="large_header">NO EXPIRATION</div>
+<div class="large_header">ON-DEMAND UPDATES</div>
 
-### The bare-bone essentials to your internet presence.
+### The bare-boned essentials for your internet presence.
 
-Use [our website](./index) as the product example.
+Use **[our website](./index)** as the product example.
 
 ### We work a bit different
 You send us a rough formatted email of your desired web page content,
@@ -32,10 +36,10 @@ You send us a rough formatted email of your desired web page content,
 | <div class="tooltip"><div class="pay_free">$25<span class="tooltiptext">Email: walkum.llc@gmail.com</span></span></div></div>        | <div class="chart_padding">**"I'd like to edit content."**</div>        |
 | <div class="tooltip"><div class="pay_free">$40/hour<span class="tooltiptext">Email: walkum.llc@gmail.com</span></span></div></div>        | <div class="chart_padding">**"I need additional static site customization."**</br><span class="small_text">Typically custom design/stylizing.</span></div>        |
 | <div class="tooltip"><div class="pay_free">$100/hour<span class="tooltiptext">Email: walkum.llc@gmail.com</span></span></div></div>        | <div class="chart_padding">**"I need a custom site built from scratch."**</div>        |
-| <div class="tooltip"><div class="pay_free">-$25<span class="tooltiptext">Email: walkum.llc@gmail.com</span></span></div></div>        | <div class="chart_padding">**"I'll take over from here."**</br><span class="small_text">We'll send you your website's source repository and reimburse you $25. This voids all future Walkum involvement with your website. Your site remains live on the web. We just hand you the keys.</span></div>        |
+| <div class="tooltip"><div class="pay_free">-$25<span class="tooltiptext">Email: walkum.llc@gmail.com</span></span></div></div>        | <div class="chart_padding">**"I'll take over from here."**</br><span class="small_text">We'll send you your website's source repository and reimburse you $25. This voids all future Walkum involvement with your website. **Your site remains live on the web.** We just hand you the keys.</span></div>        |
 
 <span class="small_text">Walkum is not a domain registrar. You may bring us your domain address (address.com/.xyz/.info/.etc), or we can help you obtain one to initialize your configuration.</span>
 
-# Email [walkum.llc@gmail.com](walkum.llc@gmail.com) to get your cheap, dark-mode website.
+## Email [walkum.llc@gmail.com](walkum.llc@gmail.com) to get your CHEAP, DARK-MODE WEBSITE.
 
 </div>

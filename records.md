@@ -1,3 +1,7 @@
+---
+title: "walkum | records"
+description: "walkum llc dave daggett ddaaggeett record records music musician musicians artist gig bass guitar drums studio live jazz producer production sound technician"
+---
 <link href="./src/css/styles.css" rel="stylesheet" />
 
 <div class="center">
@@ -6,12 +10,14 @@
 
 ### Record production [services](./src/collab)
 
-[![Video Title 1](https://img.youtube.com/vi/42UMTMEEU34/0.jpg)](https://www.youtube.com/watch?v=42UMTMEEU34)
-[![Video Title 1](https://img.youtube.com/vi/Hcj_Xb7zJfY/0.jpg)](https://www.youtube.com/watch?v=Hcj_Xb7zJfY)
-[![Video Title 1](https://img.youtube.com/vi/6sEhygfod-Y/0.jpg)](https://www.youtube.com/watch?v=6sEhygfod-Y)
-[![Video Title 1](https://img.youtube.com/vi/-ggV4-u2cL4/0.jpg)](https://www.youtube.com/watch?v=-ggV4-u2cL4)
-[![Video Title 1](https://img.youtube.com/vi/WCfR0zcbyMI/0.jpg)](https://www.youtube.com/watch?v=WCfR0zcbyMI)
-[![Video Title 1](https://img.youtube.com/vi/FMpIMnvIKcQ/0.jpg)](https://www.youtube.com/watch?v=FMpIMnvIKcQ)
+Bundling you with the right musicians.
+
+[![Walkum script](https://img.youtube.com/vi/42UMTMEEU34/0.jpg)](https://www.youtube.com/watch?v=42UMTMEEU34)
+[![Walkum exploit](https://img.youtube.com/vi/Hcj_Xb7zJfY/0.jpg)](https://www.youtube.com/watch?v=Hcj_Xb7zJfY)
+[![Walkum drive](https://img.youtube.com/vi/6sEhygfod-Y/0.jpg)](https://www.youtube.com/watch?v=6sEhygfod-Y)
+[![Walkum stack](https://img.youtube.com/vi/-ggV4-u2cL4/0.jpg)](https://www.youtube.com/watch?v=-ggV4-u2cL4)
+[![Walkum spawn](https://img.youtube.com/vi/WCfR0zcbyMI/0.jpg)](https://www.youtube.com/watch?v=WCfR0zcbyMI)
+[![Walkum error](https://img.youtube.com/vi/FMpIMnvIKcQ/0.jpg)](https://www.youtube.com/watch?v=FMpIMnvIKcQ)
 
 </div>
 
