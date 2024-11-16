@@ -10,7 +10,7 @@ description: "walkum llc dave daggett ddaaggeett record records music musician m
 
 ### Record production [services](./src/collab)
 
-Bundling you with the right musicians.
+Bundling you with the right musicians
 
 [![Walkum script](https://img.youtube.com/vi/42UMTMEEU34/0.jpg)](https://www.youtube.com/watch?v=42UMTMEEU34)
 [![Walkum exploit](https://img.youtube.com/vi/Hcj_Xb7zJfY/0.jpg)](https://www.youtube.com/watch?v=Hcj_Xb7zJfY)
