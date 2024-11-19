@@ -31,3 +31,6 @@ description: "walkum llc dave daggett ddaaggeett construction home remodel proje
 <a href="https://photos.app.goo.gl/3Zcwxp5RTvZp2yVj9"><img src="./src/images/wh_example.jpg" alt="remodel example" class="title_picture"></a>
 
 </div>
+
+___
+<div class="footer">Made with <span>&#10084;&#65039;</span> by <a href="https://walkum.xyz/sites">Walkum</a></div>

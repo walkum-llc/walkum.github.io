@@ -13,3 +13,6 @@ description: "walkum llc dave daggett ddaaggeett records homes sites contracting
 email walkum.llc@gmail.com
 
 </div>
+
+___
+<div class="footer">Made with <span>&#10084;&#65039;</span> by <a href="https://walkum.xyz/sites">Walkum</a></div>
