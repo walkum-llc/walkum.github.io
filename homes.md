@@ -12,15 +12,14 @@ description: "walkum llc dave daggett ddaaggeett construction home remodel proje
 
 ### Spencerport, NY
 
-- custom built-ins + cabinetry
-- finish carpentry
+- custom built-ins + finish work
 - general storage and shelving
 - flooring + tile
-- door hang + jamb installation
+- doors
 - toilet and vanity installation
-- electrical + lighting
+- lighting
 - wallpaper
-- drywall and texturing
+- drywall repair
 - paint
 - clean + structurally-considerate demolition
 
