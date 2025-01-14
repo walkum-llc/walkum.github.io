@@ -1,12 +1,12 @@
-name: Handle Post-Deployment
+name: Deploy to GitHub Pages
 
 on:
   push:
     branches:
-      - main  # Or gh-pages, depending on your setup
+      - main  # Adjust if your deployment branch is different
 
 jobs:
-  handle-deployment:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
@@ -20,4 +20,8 @@ jobs:
           echo "PORT=${{ secrets.PORT }}" >> .env.production
           echo "NODE_ENV=${{ secrets.NODE_ENV }}" >> .env.production
 
-      # Add any other post-deployment actions you might need here
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
