@@ -3,16 +3,18 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  # Adjust if your deployment branch is different
+      - main  # Ensure you're deploying from main
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Checkout repository
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
+      # Step 2: Set up environment variables from GitHub Secrets
       - name: Set up environment variables from GitHub Secrets
         run: |
           echo "PAYPAL_CLIENT_ID=${{ secrets.PAYPAL_CLIENT_ID }}" >> .env.production
@@ -20,9 +22,17 @@ jobs:
           echo "PORT=${{ secrets.PORT }}" >> .env.production
           echo "NODE_ENV=${{ secrets.NODE_ENV }}" >> .env.production
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GH_TOKEN }}
-          publish_dir: ./
-          destination_branch: main
+      # Step 3: Build the Gatsby site
+      - name: Build Gatsby site
+        run: |
+          yarn install
+          yarn build
+
+      # Step 4: Commit and push the `public` directory to the main branch
+      - name: Deploy to main branch
+        run: |
+          cd public
+          git init
+          git add .
+          git commit -m "Deploy Gatsby build"
+          git push --force "git@github.com:walkum-llc/walkum.github.io.git" main:main
