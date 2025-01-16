@@ -1,0 +1,23 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Ensure you're deploying from main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Step 2: Set up environment variables from GitHub Secrets
+      - name: Set up environment variables from GitHub Secrets
+        run: |
+          echo "PAYPAL_CLIENT_ID=${{ secrets.PAYPAL_CLIENT_ID }}" >> .env.production
+          echo "SERVER_IP=${{ secrets.SERVER_IP }}" >> .env.production
+          echo "PORT=${{ secrets.PORT }}" >> .env.production
+          echo "NODE_ENV=${{ secrets.NODE_ENV }}" >> .env.production
