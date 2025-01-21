@@ -1,0 +1,2 @@
+(self.webpackChunkwalkum=self.webpackChunkwalkum||[]).push([[783],{9278:function(){},8877:function(e,n,l){"use strict";l.r(n),l.d(n,{default:function(){return c}});var u=l(6540),t=l(9278),a=l.n(t);var r=()=>u.createElement("div",null,u.createElement("h1",null,"Menu App"),u.createElement(a(),null));var c=()=>u.createElement(r,null)}}]);
+//# sourceMappingURL=component---src-pages-sites-menupdf-js-d51ff625350cf7eb3eb6.js.map
